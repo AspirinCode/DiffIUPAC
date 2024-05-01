@@ -54,17 +54,6 @@ Learning the BPE tokenizer by
 sh ./
 ```
 
-
-## Generating
-
-To run the code, example data is in the example folder:
-
-**Prepare the data:** 
-Learning the BPE tokenizer by
-```
-python ./tokenizer_utils.py train-byte-level iwslt14 10000 
-
-
 **To train with the following line:**  
 ```
 mkdir ckpts
@@ -79,6 +68,15 @@ You may modify the scripts in ./train_scripts for your own training settings.
 
 ```
 bash ./train_scripts/fine_tune.sh 0 iupac smiles
+
+```
+
+## Generating
+
+To run the code, example data is in the example folder:
+
+```
+bash ./train_scripts/gen_opt.sh
 
 ```
 
