@@ -51,8 +51,18 @@ To run the code, we use iwslt14 en-de as an illustrative example:
 **Prepare the data:** 
 Learning the BPE tokenizer by
 ```
-python ./tokenizer_utils.py train-byte-level iwslt14 10000 
+sh ./
 ```
+
+
+## Generating
+
+To run the code, example data is in the example folder:
+
+**Prepare the data:** 
+Learning the BPE tokenizer by
+```
+python ./tokenizer_utils.py train-byte-level iwslt14 10000 
 
 
 **To train with the following line:**  
