@@ -7,7 +7,7 @@
 
 
 
-![Model Architecture of DiffIUPAC](https://github.com/AspirinCode/DiffIUPAC/blob/main/figure/framework_figure.png)
+![Model Architecture of DiffIUPAC](https://github.com/AspirinCode/DiffIUPAC/blob/main/figure/framework.png)
 
 
 ## Acknowledgements
