@@ -14,6 +14,16 @@
 We thank the authors of C5T5: Controllable Generation of Organic Molecules with Transformers, IUPAC2Struct: Transformer-based artificial neural networks for the conversion between chemical notations, Deep molecular generative model based on variant transformer for antiviral drug design, and SeqDiffuSeq: Text Diffusion with Encoder-Decoder Transformers for releasing their code. The code in this repository is based on their source code release (https://github.com/dhroth/c5t5, https://github.com/sergsb/IUPAC2Struct, https://github.com/AspirinCode/TransAntivirus, and https://github.com/yuanhy1997/seqdiffuseq). If you find this code useful, please consider citing their work.
 
 
+## News!
+
+.
+
+**[2024/09/27]** Accepted in **Journal of Pharmaceutical Analysis**, 2024.
+
+**[2024/05/14]** submission to **Journal of Chemical Theory and Computation**, 2024.
+
+
+
 ## Requirements
 ```python
 conda create -n diffiupac python=3.8
