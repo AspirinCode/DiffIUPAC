@@ -5,6 +5,22 @@
 
 **Diffusion-based generative drug-like molecular editing with chemical natural language**  
 
+Recently, diffusion models have emerged as a promising paradigm for molecular
+design and optimization. However, most diffusion-based molecular generative models
+focus on modeling 2D graphs or 3D geometries, with limited research on molecular
+sequence diffusion models. The International Union of Pure and Applied Chemistry
+(IUPAC) names are more akin to chemical natural language than the Simplified
+Molecular Input Line Entry System (SMILES) for organic compounds. In this work, we
+apply an IUPAC-guided conditional diffusion model to facilitate molecular editing from
+chemical natural language to chemical language (SMILES) and explore whether the
+pre-trained generative performance of diffusion models can be transferred to chemical
+natural language. We propose DiffIUPAC, a controllable molecular editing diffusion
+model that converts IUPAC names to SMILES strings. Evaluation results demonstrate
+that our model outperforms existing methods and successfully captures the semantic
+rules of both chemical languages. Chemical space and scaffold analysis show that the
+model can generate similar compounds with diverse scaffolds within the specified
+constraints. Additionally, to illustrate the model's applicability in drug design, we
+conducted case studies in functional group editing, analogue design and linker design.
 
 
 ![Model Architecture of DiffIUPAC](https://github.com/AspirinCode/DiffIUPAC/blob/main/figure/framework.png)
