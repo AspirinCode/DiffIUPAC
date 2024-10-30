@@ -69,6 +69,34 @@ https://github.com/rdkit/rdkit
 https://pubchem.ncbi.nlm.nih.gov/
 
 
+
+## IUPAC name ⇆ SMILES string
+
+
+### Structure/SMILES2IUPAC  
+
+**IUPAC Naming**  
+
+https://web.chemdoodle.com/demos/iupac-naming  
+
+
+**SMILES2IUPAC**  
+
+https://huggingface.co/knowledgator/SMILES2IUPAC-canonical-base  
+
+**Smiles-TO-iUpac-Translator**  
+
+https://github.com/Kohulan/Smiles-TO-iUpac-Translator  
+
+
+
+### IUPAC2SMILES
+
+https://www.antvaset.com/iupac-to-smiles
+
+https://web.chemdoodle.com/demos/iupac-naming  
+
+
 ## Training
 
 To run the code, we use iwslt14 en-de as an illustrative example:
@@ -117,6 +145,7 @@ https://github.com/molecularsets/moses
 quantitative estimate of protein-protein interaction targeting drug-likeness  
 
 https://github.com/ohuelab/QEPPI  
+
 
 ## License
 Code is released under GNU GENERAL PUBLIC LICENSE.
