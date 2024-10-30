@@ -34,7 +34,7 @@ We thank the authors of C5T5: Controllable Generation of Organic Molecules with 
 
 .
 
-**[2024/09/29]** Accepted in **Journal of Pharmaceutical Analysis**, 2024.
+**[2024/10/29]** Accepted in **Journal of Pharmaceutical Analysis**, 2024.
 
 **[2024/05/14]** submission to **Journal of Pharmaceutical Analysis**, 2024.
 
