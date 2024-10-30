@@ -66,9 +66,15 @@ https://github.com/rdkit/rdkit
 
 
 **PubChem**
+
 https://pubchem.ncbi.nlm.nih.gov/
 
+IUPAC Name-Canonical SMILES pairs
 
+```
+#example
+N-[3-[[6-[3-(trifluoromethyl)anilino]pyrimidin-4-yl]amino]phenyl]cyclopropanecarboxamide | C1CC1C(=O)NC2=CC=CC(=C2)NC3=NC=NC(=C3)NC4=CC=CC(=C4)C(F)(F)F
+```
 
 ## IUPAC name ⇆ SMILES string
 
