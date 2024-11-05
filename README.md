@@ -158,6 +158,9 @@ Code is released under GNU GENERAL PUBLIC LICENSE.
 
 
 ## Cite:
+
+* J. Wang, P. Zhou, Z. Wang, W. Long, Y. Chen, K.T. No, D. Ouyang, J. Mao, X. Zeng, Diffusion-based generative drug-like molecular editing with chemical natural language, Journal of Pharmaceutical Analysis, https://doi.org/10.1016/j.jpha.2024.101137.
+
 * Yuan, Hongyi, Zheng Yuan, Chuanqi Tan, Fei Huang, and Songfang Huang. "SeqDiffuSeq: Text Diffusion with Encoder-Decoder Transformers." arXiv preprint arXiv:2212.10325 (2022).  
 
 * Rothchild, Daniel, Alex Tamkin, Julie Yu, Ujval Misra, and Joseph Gonzalez. "C5t5: Controllable generation of organic molecules with transformers." arXiv preprint arXiv:2108.10307 (2021).
