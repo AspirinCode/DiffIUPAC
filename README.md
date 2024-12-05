@@ -1,4 +1,5 @@
 [![License: GNU](https://img.shields.io/badge/License-GNU-yellow)](https://github.com/AspirinCode/DiffIUPAC)
+[![J. Pharm. Anal.](https://img.shields.io/badge/10.1016%2Fj.jpha.2024.101137-green)](https://doi.org/10.1016/j.jpha.2024.101137)
 
 
 ## DiffIUPAC
